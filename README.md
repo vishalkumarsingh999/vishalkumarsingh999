@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalkumarsingh999
 - 👀 I’m interested in ML,AI,CP,Coding,Maths...
-- 🌱 I’m currently Machine Learning
+- 🌱 I’m currently Learning  Machine Learning
 - 💞️ I’m looking to collaborate on https://github.com/vishalkumarsingh999/
 - 📫 How to reach me vishalkumarsingh999@gmail.com
 
